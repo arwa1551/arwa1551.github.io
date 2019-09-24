@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Arwa's Test Post
+title: Project 1: Exploratory Data Analysis (EDA)
 ---
 
-This is a test post. 
+In the first project of the data science bootcamp, we were required to do Exploratory Data Analysis (EDA) on a given dataset. The project was introduced as an email received from Karrine and Dahlia who are managers in WomenTechWomenYes (WTWY) compnay, where they have an annual gala at the beginning of the summer each year. They are interesed in using the power of data and analytics to optimize their effectiveness of their street team work. 
 
-To make a post, you must follow the naming convention shown for this file,
-with the data as the first part of the file name, seperated by dashes. Then
-the name of the post as you want it to be stored, with spaces as dashes.
-Finally, you must also keep the 
+They gave the analysis company a MTA subway data, and asked if they can help them optimize the placement of their street teams, such that they can gather the most signatures from those who will attend their gala and contribute to their cause.
+
+As a team, we stick to the lines of the story and pretended to play the role a company named "Nerdalytics". Being a company whose main work is centered around providing the clients with the best analysis that alignes with their goals, we happly accepted their request and we were proud to participate in such a valuable cause.
+
 
 ```
 ---
@@ -25,7 +25,7 @@ markdown-y things.
 
 [This is a link](http://thisismetis.com)
 
-![Image test]({{ site.url }}/images/AlanLeeShireGandalf.JPG)
+![Image test]({{ site.url }}/Images/Average_Traffic_weekends.png)
 
 ### Other things
 * Like
