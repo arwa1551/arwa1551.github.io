@@ -15,7 +15,7 @@ They gave the analysis company a MTA subway data, and asked if they can help the
 
 As a team, we stick to the lines of the story and pretended to play the role a company named "Nerdalytics". Being a company whose main work is centered around providing the clients with the best analysis that alignes with their goals, we happly accepted their request and we were proud to participate in such a valuable cause.
 
-### Data acuasition
+### Data acquisition
 
 [MTA data](http://web.mta.info/developers/turnstile.html) which is public and was obtained from the NYC Data Portal. You can find a clear description of the data [here](http://web.mta.info/developers/resources/nyct/turnstile/ts_Field_Description.txt).It is important to mention that, we focused on the 2 months May and August. The reason behind that, is because May is in spring and students are still in school, compared to August its in summer and students in their summer vacation. So we wanted to compare those two months to have a clear distiction between the two seasons. 
 
