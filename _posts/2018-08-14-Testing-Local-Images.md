@@ -37,5 +37,4 @@ From the above graphs, we would suggest to Karrine and Dahlia to distribute thei
 
 
 
-![](Average_Traffic_weekends.png)
-![Image test]({{ site.url }}/images/AlanLeeShireGandalf.JPG)
+<img src="images/Average_Traffic_weekends.png")
