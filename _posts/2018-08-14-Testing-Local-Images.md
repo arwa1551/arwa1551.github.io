@@ -1,7 +1,11 @@
 ---
+```
 layout: post
 title: Project 1: Exploratory Data Analysis (EDA)
+```
 ---
+
+### Introduction 
 
 In the first project of the data science bootcamp, we were required to do Exploratory Data Analysis (EDA) on a given dataset. The project was introduced as an email received from Karrine and Dahlia who are managers in WomenTechWomenYes (WTWY) compnay, where they have an annual gala at the beginning of the summer each year. They are interesed in using the power of data and analytics to optimize their effectiveness of their street team work. 
 
@@ -9,26 +13,26 @@ They gave the analysis company a MTA subway data, and asked if they can help the
 
 As a team, we stick to the lines of the story and pretended to play the role a company named "Nerdalytics". Being a company whose main work is centered around providing the clients with the best analysis that alignes with their goals, we happly accepted their request and we were proud to participate in such a valuable cause.
 
+### Data acuasition
 
-```
----
-layout: post
-title: Zach's Test Post
----
-```
+[MTA data](http://web.mta.info/developers/turnstile.html) which is public and was obtained from the NYC Data Portal. You can find a clear description of the data [here](http://web.mta.info/developers/resources/nyct/turnstile/ts_Field_Description.txt).It is important to mention that, we focused on the 2 months May and August. The reason behind that, is because May is in spring and students are still in school, compared to August its in summer and students in their summer vacation. So we wanted to compare those two months to have a clear distiction between the two seasons. 
 
-Part in the post to tell the page how to title your post and how to render it.
+### Data cleaning
 
-Below are some examples of loading images, making links, and doing other
-markdown-y things.
+* Dealt with missing values.
+* Added a new column (DUS) that included Station, SCP, UNIT. It was hnady to know the exact average traffic on each specific UNIT.
+* Deleted white spaces in column names.
+
+### Data processing
+
+We claculcted the average traffic for each UNIT using the ENTRIS and EXITS colums. Then, we plotted the most crowded stations on the month of May and August as you can see in the two graphs below. 
+
+Then, we wanted to get a little more detailed and know the most crowded hour in the weekdays and weekends. See the graphs below. 
+
+### Results 
+
+From the above graphs, we would suggest to Karrine and Dahlia to distribute their teams amongest these stations (BAYCHESTER AV, and Dekalb AV), and to take advantage of evenings in the weekends and afternoon in the weekdays. 
 
 
-[This is a link](http://thisismetis.com)
 
-![Image test]({{ site.url }}/Images/Average_Traffic_weekends.png)
-
-### Other things
-* Like
-* lists
-* and 
-* stuff
+![Image test](Images/Average_Traffic_weekends.png)
