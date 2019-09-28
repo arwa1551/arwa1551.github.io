@@ -29,16 +29,15 @@ As a team, we stick to the lines of the story and pretended to play the role a c
 
 We claculcted the average traffic for each UNIT using the ENTRIS and EXITS colums. Then, we plotted the most crowded stations on the month of May and August as you can see in the two graphs below. 
 
+![](images/AvgTopFiveStation.png)
+![](images/MayTopAvgStations.png)
+
 Then, we wanted to get a little more detailed and know the most crowded hour in the weekdays and weekends. See the graphs below. 
+
+![](images/Average_Traffic_weekends.png)
+![](images/Average_Traffic_weekdays.png)
 
 ### Results 
 
 From the above graphs, we would suggest to Karrine and Dahlia to distribute their teams amongest these stations (BAYCHESTER AV, and Dekalb AV), and to take advantage of evenings in the weekends and afternoon in the weekdays. 
 
-
-
-<img src="images/Average_Traffic_weekends.png")
-
-<img src="./images/Average_Traffic_weekends.png")
-![](images/Average_Traffic_weekends.png)
-![](./images/Average_Traffic_weekends.png)
