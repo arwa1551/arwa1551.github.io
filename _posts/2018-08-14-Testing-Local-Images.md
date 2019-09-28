@@ -38,3 +38,7 @@ From the above graphs, we would suggest to Karrine and Dahlia to distribute thei
 
 
 <img src="images/Average_Traffic_weekends.png")
+
+<img src="./images/Average_Traffic_weekends.png")
+![](images/Average_Traffic_weekends.png)
+![](./images/Average_Traffic_weekends.png)
