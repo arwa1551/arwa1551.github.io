@@ -5,6 +5,8 @@ title: Project 1: Exploratory Data Analysis (EDA)
 ```
 ---
 
+## Project 1: Exploratory Data Analysis (EDA)
+
 ### Introduction 
 
 In the first project of the data science bootcamp, we were required to do Exploratory Data Analysis (EDA) on a given dataset. The project was introduced as an email received from Karrine and Dahlia who are managers in WomenTechWomenYes (WTWY) compnay, where they have an annual gala at the beginning of the summer each year. They are interesed in using the power of data and analytics to optimize their effectiveness of their street team work. 
