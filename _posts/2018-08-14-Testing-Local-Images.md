@@ -37,4 +37,4 @@ From the above graphs, we would suggest to Karrine and Dahlia to distribute thei
 
 
 
-![Image test](Images/Average_Traffic_weekends.png)
+![](Images/Average_Traffic_weekends.png)
