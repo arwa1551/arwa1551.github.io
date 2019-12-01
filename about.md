@@ -3,9 +3,9 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This is Arwa, here I write all about data science. I hope you enjoy going with me in this journy!
-</p>
+Hey there! This is Arwa.
+In this blog I write all about data science. I hope you enjoy going with me in this journy!
+
 
 Feel free to reach out:
 
